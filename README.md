@@ -1,2 +1,2 @@
-# arpkg
-APT but BETTER
+# ARpkg
+Custom package manager for debian-based distro
