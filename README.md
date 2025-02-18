@@ -1,5 +1,7 @@
 # ARpkg
-Custom package manager for debian-based distro<br>
+ARPkg is a user-friendly package manager designed for Debian-based Linux distributions.
+It provides essential package management functions such as installing, updating, and removing packages while maintaining 
+a simple and intuitive interface.<br>
 <pre>sudo apt install git</pre>
 <pre>sudo apt install g++</pre>
 <pre>git clone https://github.com/Abrissyy/arpkg/arpkg.git</pre>
